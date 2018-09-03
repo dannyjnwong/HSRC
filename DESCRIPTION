@@ -5,7 +5,7 @@ Version: 0.1.0
 Author: Danny J. N. Wong
 Maintainer: Danny J. N. Wong <dwong@rcoa.ac.uk>
 Description: 
-    This is a collection of functions (and data), which R users within the HSRC might find useful. Currently there are only 3 functions for calculating perioperative morbidity and mortality risks, which rely heavily on the package dplyr.
+    This is a collection of functions (and eventually data), which R users within the HSRC might find useful. Currently there are only 3 functions for calculating perioperative morbidity and mortality risks, which rely heavily on the package dplyr.
 Depends: 
     R (>= 3.4.0),
     dplyr (>= 0.7.6)
