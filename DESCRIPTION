@@ -1,0 +1,18 @@
+Package: HSRC
+Type: Package
+Title: Useful functions for perioperative research
+Version: 0.1.0
+Author: Danny J. N. Wong
+Maintainer: Danny J. N. Wong <dwong@rcoa.ac.uk>
+Description: 
+    This is a collection of functions (and data), which R users within the HSRC might find useful. Currently there are only 3 functions for calculating perioperative morbidity and mortality risks, which rely heavily on the package dplyr.
+Depends: 
+    R (>= 3.4.0),
+    dplyr (>= 0.7.6)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports:
+    tidyverse,
+    rlang
+RoxygenNote: 6.1.0
